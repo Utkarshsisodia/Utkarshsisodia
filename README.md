@@ -16,25 +16,6 @@ Tools: Git, GitHub, VS Code
 
 Bonus: Web3, DApps (Smart Contracts, Motoko)
 
-💼 Featured Projects
-Personal Portfolio: A custom-built portfolio showcasing my skills and projects.
-
-Weather App: Real-time weather data using external APIs.
-
-ToDo List: Full-stack application with CRUD operations and user authentication.
-
-Blog Site: Multi-page blog with MongoDB integration and user comments.
-
-Check out my pinned repositories for more!
-
-🌟 Why Work With Me?
-Passionate about clean, maintainable code
-
-Strong foundation in both frontend and backend
-
-Eager to learn and adapt to new technologies
-
-
 Email: Usisodia67@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/utkarsh-sisodia-a30371242/
